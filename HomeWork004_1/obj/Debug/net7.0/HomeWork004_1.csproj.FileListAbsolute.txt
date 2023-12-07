@@ -12,3 +12,17 @@ D:\developer\CSharpProgr\Examples\HomeWork004_1\obj\Debug\net7.0\refint\HomeWork
 D:\developer\CSharpProgr\Examples\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.pdb
 D:\developer\CSharpProgr\Examples\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.genruntimeconfig.cache
 D:\developer\CSharpProgr\Examples\HomeWork004_1\obj\Debug\net7.0\ref\HomeWork004_1.dll
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\bin\Debug\net7.0\HomeWork004_1.exe
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\bin\Debug\net7.0\HomeWork004_1.deps.json
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\bin\Debug\net7.0\HomeWork004_1.runtimeconfig.json
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\bin\Debug\net7.0\HomeWork004_1.dll
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\bin\Debug\net7.0\HomeWork004_1.pdb
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.AssemblyInfoInputs.cache
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.AssemblyInfo.cs
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.csproj.CoreCompileInputs.cache
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.dll
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\refint\HomeWork004_1.dll
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.pdb
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\HomeWork004_1.genruntimeconfig.cache
+D:\developer\CSharpProgr\DZ_Massivi\HomeWork004_1\obj\Debug\net7.0\ref\HomeWork004_1.dll
